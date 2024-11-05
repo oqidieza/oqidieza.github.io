@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oqidieza.github.io/ROV/sitemap_index.txt
+Sitemap: https://oqidieza.github.io/WZb/sitemap_index.txt
+Sitemap: https://oqidieza.github.io/aPr/sitemap_index.txt
+Sitemap: https://oqidieza.github.io/sAZ/sitemap_index.txt
